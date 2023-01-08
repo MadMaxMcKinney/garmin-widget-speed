@@ -21,6 +21,10 @@ class SpeedApp extends Application.AppBase {
         return [ new SpeedView() ] as Array<Views or InputDelegates>;
     }
 
+    function getGlanceView() {
+        return [new SpeedGlanceView()];
+    }
+
 }
 
 function getApp() as SpeedApp {
