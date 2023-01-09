@@ -2,71 +2,91 @@
 <debugInfo>
 <manifest filename="C:\Users\maxga\Documents\GitHub\garmin-widget-speed\manifest.xml"/>
 <pcToLineNum>
-<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedView.mc" id="1" lineNum="4" parent="globals/SpeedView" pc="268435460" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedView.mc" id="3" lineNum="11" parent="globals/SpeedView" pc="268435479" symbol="onLayout"/>
-<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedView.mc" id="3" lineNum="12" parent="globals/SpeedView" pc="268435481" symbol="onLayout"/>
-<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedView.mc" id="4" lineNum="6" parent="globals/SpeedView" pc="268435523" symbol="initialize"/>
-<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedView.mc" id="4" lineNum="7" parent="globals/SpeedView" pc="268435525" symbol="initialize"/>
-<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedView.mc" id="6" lineNum="22" parent="globals/SpeedView" pc="268435544" symbol="onUpdate"/>
-<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedView.mc" id="6" lineNum="24" parent="globals/SpeedView" pc="268435546" symbol="onUpdate"/>
-<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedApp.mc" id="7" lineNum="30" parent="globals" pc="268435567" symbol="getApp"/>
-<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedApp.mc" id="7" lineNum="31" parent="globals" pc="268435577" symbol="getApp"/>
-<entry filename="Rez.mc" id="8" lineNum="1" parent="globals/Rez" pc="268435593" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedApp.mc" id="9" lineNum="5" parent="globals/SpeedApp" pc="268435617" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedApp.mc" id="10" lineNum="12" parent="globals/SpeedApp" pc="268435636" symbol="onStart"/>
-<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedApp.mc" id="11" lineNum="20" parent="globals/SpeedApp" pc="268435639" symbol="getInitialView"/>
-<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedApp.mc" id="11" lineNum="21" parent="globals/SpeedApp" pc="268435641" symbol="getInitialView"/>
-<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedApp.mc" id="12" lineNum="7" parent="globals/SpeedApp" pc="268435682" symbol="initialize"/>
-<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedApp.mc" id="12" lineNum="8" parent="globals/SpeedApp" pc="268435684" symbol="initialize"/>
-<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedApp.mc" id="13" lineNum="24" parent="globals/SpeedApp" pc="268435703" symbol="getGlanceView"/>
-<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedApp.mc" id="13" lineNum="25" parent="globals/SpeedApp" pc="268435705" symbol="getGlanceView"/>
-<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedApp.mc" id="14" lineNum="16" parent="globals/SpeedApp" pc="268435746" symbol="onStop"/>
-<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedGlanceView.mc" id="15" lineNum="4" parent="globals/SpeedGlanceView" pc="268435749" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedGlanceView.mc" id="17" lineNum="11" parent="globals/SpeedGlanceView" pc="268435768" symbol="onLayout"/>
-<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedGlanceView.mc" id="17" lineNum="12" parent="globals/SpeedGlanceView" pc="268435770" symbol="onLayout"/>
-<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedGlanceView.mc" id="18" lineNum="6" parent="globals/SpeedGlanceView" pc="268435812" symbol="initialize"/>
-<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedGlanceView.mc" id="18" lineNum="7" parent="globals/SpeedGlanceView" pc="268435814" symbol="initialize"/>
-<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedGlanceView.mc" id="20" lineNum="22" parent="globals/SpeedGlanceView" pc="268435833" symbol="onUpdate"/>
-<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedGlanceView.mc" id="20" lineNum="24" parent="globals/SpeedGlanceView" pc="268435835" symbol="onUpdate"/>
-<entry filename="Rez.mc" id="21" lineNum="17" parent="globals/Rez/Layouts" pc="268435860" symbol="GlanceLayout"/>
-<entry filename="Rez.mc" id="21" lineNum="19" parent="globals/Rez/Layouts" pc="268435872" symbol="GlanceLayout"/>
-<entry filename="Rez.mc" id="21" lineNum="21" parent="globals/Rez/Layouts" pc="268435958" symbol="GlanceLayout"/>
-<entry filename="Rez.mc" id="22" lineNum="30" parent="globals/Rez/Layouts" pc="268435975" symbol="MainLayout"/>
-<entry filename="Rez.mc" id="22" lineNum="32" parent="globals/Rez/Layouts" pc="268435987" symbol="MainLayout"/>
-<entry filename="Rez.mc" id="22" lineNum="34" parent="globals/Rez/Layouts" pc="268436122" symbol="MainLayout"/>
+<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedApp.mc" id="1" lineNum="5" parent="globals/SpeedApp" pc="268435460" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedApp.mc" id="2" lineNum="12" parent="globals/SpeedApp" pc="268435479" symbol="onStart"/>
+<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedApp.mc" id="3" lineNum="20" parent="globals/SpeedApp" pc="268435482" symbol="getInitialView"/>
+<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedApp.mc" id="3" lineNum="21" parent="globals/SpeedApp" pc="268435484" symbol="getInitialView"/>
+<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedApp.mc" id="4" lineNum="7" parent="globals/SpeedApp" pc="268435525" symbol="initialize"/>
+<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedApp.mc" id="4" lineNum="8" parent="globals/SpeedApp" pc="268435527" symbol="initialize"/>
+<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedApp.mc" id="5" lineNum="24" parent="globals/SpeedApp" pc="268435546" symbol="getGlanceView"/>
+<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedApp.mc" id="5" lineNum="25" parent="globals/SpeedApp" pc="268435548" symbol="getGlanceView"/>
+<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedApp.mc" id="6" lineNum="16" parent="globals/SpeedApp" pc="268435589" symbol="onStop"/>
+<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedGlanceView.mc" id="7" lineNum="5" parent="globals/SpeedGlanceView" pc="268435592" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedGlanceView.mc" id="8" lineNum="12" parent="globals/SpeedGlanceView" pc="268435611" symbol="onLayout"/>
+<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedGlanceView.mc" id="8" lineNum="13" parent="globals/SpeedGlanceView" pc="268435613" symbol="onLayout"/>
+<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedGlanceView.mc" id="9" lineNum="7" parent="globals/SpeedGlanceView" pc="268435655" symbol="initialize"/>
+<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedGlanceView.mc" id="9" lineNum="8" parent="globals/SpeedGlanceView" pc="268435657" symbol="initialize"/>
+<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedGlanceView.mc" id="10" lineNum="17" parent="globals/SpeedGlanceView" pc="268435676" symbol="onUpdate"/>
+<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedGlanceView.mc" id="10" lineNum="19" parent="globals/SpeedGlanceView" pc="268435678" symbol="onUpdate"/>
+<entry filename="Rez.mc" id="11" lineNum="1" parent="globals/GlanceRez" pc="268435703" symbol="&lt;init&gt;"/>
+<entry filename="Rez.mc" id="12" lineNum="15" parent="globals/GlanceRez/Layouts" pc="268435727" symbol="GlanceLayout"/>
+<entry filename="Rez.mc" id="12" lineNum="18" parent="globals/GlanceRez/Layouts" pc="268435739" symbol="GlanceLayout"/>
+<entry filename="Rez.mc" id="12" lineNum="20" parent="globals/GlanceRez/Layouts" pc="268435825" symbol="GlanceLayout"/>
+<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedView.mc" id="13" lineNum="6" parent="globals/SpeedView" pc="268435842" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedView.mc" id="15" lineNum="16" parent="globals/SpeedView" pc="268435861" symbol="onLayout"/>
+<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedView.mc" id="15" lineNum="17" parent="globals/SpeedView" pc="268435863" symbol="onLayout"/>
+<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedView.mc" id="15" lineNum="19" parent="globals/SpeedView" pc="268435904" symbol="onLayout"/>
+<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedView.mc" id="16" lineNum="11" parent="globals/SpeedView" pc="268435929" symbol="initialize"/>
+<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedView.mc" id="16" lineNum="12" parent="globals/SpeedView" pc="268435931" symbol="initialize"/>
+<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedView.mc" id="17" lineNum="30" parent="globals/SpeedView" pc="268435950" symbol="onUpdate"/>
+<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedView.mc" id="17" lineNum="32" parent="globals/SpeedView" pc="268435954" symbol="onUpdate"/>
+<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedView.mc" id="17" lineNum="34" parent="globals/SpeedView" pc="268435974" symbol="onUpdate"/>
+<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedView.mc" id="17" lineNum="35" parent="globals/SpeedView" pc="268435991" symbol="onUpdate"/>
+<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedView.mc" id="17" lineNum="37" parent="globals/SpeedView" pc="268436018" symbol="onUpdate"/>
+<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedView.mc" id="18" lineNum="40" parent="globals/SpeedView" pc="268436054" symbol="metersPerSecondToMilesPerHour"/>
+<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedView.mc" id="18" lineNum="41" parent="globals/SpeedView" pc="268436056" symbol="metersPerSecondToMilesPerHour"/>
+<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedApp.mc" id="19" lineNum="30" parent="globals" pc="268436065" symbol="getApp"/>
+<entry filename="C:\\Users\\maxga\\Documents\\GitHub\\garmin-widget-speed\\source\\SpeedApp.mc" id="19" lineNum="31" parent="globals" pc="268436075" symbol="getApp"/>
+<entry filename="Rez.mc" id="20" lineNum="28" parent="globals/Rez" pc="268436091" symbol="&lt;init&gt;"/>
+<entry filename="Rez.mc" id="21" lineNum="44" parent="globals/Rez/Layouts" pc="268436115" symbol="GlanceLayout"/>
+<entry filename="Rez.mc" id="21" lineNum="45" parent="globals/Rez/Layouts" pc="268436125" symbol="GlanceLayout"/>
+<entry filename="Rez.mc" id="22" lineNum="52" parent="globals/Rez/Layouts" pc="268436155" symbol="MainLayout"/>
+<entry filename="Rez.mc" id="22" lineNum="54" parent="globals/Rez/Layouts" pc="268436167" symbol="MainLayout"/>
+<entry filename="Rez.mc" id="22" lineNum="56" parent="globals/Rez/Layouts" pc="268436315" symbol="MainLayout"/>
 </pcToLineNum>
 <symbolTable>
-<entry id="9" object="true" symbol="SpeedApp"/>
+<entry id="15" object="true" symbol="SpeedApp"/>
 <entry id="8388639" module="true" symbol="Graphics"/>
 <entry id="8389346" symbol="text"/>
-<entry id="15" method="true" symbol="GlanceLayout"/>
+<entry id="19" method="true" symbol="GlanceLayout"/>
+<entry id="6" module="true" symbol="globals/GlanceRez/Layouts"/>
 <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
-<entry id="7" module="true" symbol="globals/Rez/Menus"/>
-<entry id="16" method="true" symbol="MainLayout"/>
+<entry id="3" module="true" symbol="globals/GlanceRez/Drawables"/>
+<entry id="13" module="true" symbol="globals/Rez/Menus"/>
+<entry id="24" method="true" symbol="MainLayout"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-<entry field="true" id="17" symbol="AppName"/>
-<entry id="8" module="true" symbol="globals/Rez/Strings"/>
+<entry id="5" module="true" symbol="globals/GlanceRez/JsonData"/>
+<entry field="true" id="25" symbol="AppName"/>
+<entry id="14" module="true" symbol="globals/Rez/Strings"/>
 <entry id="8388772" module="true" object="true" symbol="Fonts"/>
 <entry id="8388648" module="true" symbol="WatchUi"/>
-<entry id="2" module="true" symbol="globals/Rez"/>
+<entry field="true" id="21" symbol="spdLabel"/>
+<entry id="8" module="true" symbol="globals/Rez"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
 <entry field="true" id="8389065" symbol="locY"/>
 <entry field="true" id="8389064" symbol="locX"/>
 <entry id="8388771" module="true" object="true" symbol="Drawables"/>
 <entry id="8389348" symbol="font"/>
-<entry id="13" module="true" symbol="Menus"/>
+<entry id="22" module="true" symbol="Menus"/>
 <entry id="8389275" method="true" symbol="getApp"/>
-<entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+<entry id="12" module="true" symbol="globals/Rez/Layouts"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="8388738" symbol="currentSpeed"/>
+<entry id="2" module="true" symbol="globals/GlanceRez"/>
+<entry field="true" id="8389063" symbol="identifier"/>
 <entry id="8389349" symbol="justification"/>
-<entry id="5" module="true" symbol="globals/Rez/JsonData"/>
-<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
-<entry id="11" object="true" symbol="SpeedView"/>
+<entry id="11" module="true" symbol="globals/Rez/JsonData"/>
+<entry id="8391459" module="true" object="true" symbol="GlanceRez"/>
+<entry id="9" module="true" symbol="globals/Rez/Drawables"/>
+<entry id="17" object="true" symbol="SpeedView"/>
+<entry id="8388644" module="true" symbol="System"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="20" method="true" symbol="metersPerSecondToMilesPerHour"/>
+<entry id="4" module="true" symbol="globals/GlanceRez/Fonts"/>
 <entry id="8388640" module="true" symbol="Lang"/>
-<entry id="10" object="true" symbol="SpeedGlanceView"/>
+<entry id="16" object="true" symbol="SpeedGlanceView"/>
 <entry id="8390088" module="true" object="true" symbol="JsonData"/>
-<entry field="true" id="14" symbol="LauncherIcon"/>
+<entry field="true" id="23" symbol="LauncherIcon"/>
 <entry id="8388610" symbol="statics"/>
 <entry id="8389123" method="true" symbol="onShow"/>
 <entry id="8389350" module="true" symbol="globals"/>
@@ -76,104 +96,140 @@
 <entry id="8389280" method="true" symbol="getInitialView"/>
 <entry id="8389281" method="true" symbol="onStop"/>
 <entry id="8389347" symbol="color"/>
-<entry id="12" module="true" symbol="Layouts"/>
-<entry id="4" module="true" symbol="globals/Rez/Fonts"/>
+<entry id="18" module="true" symbol="Layouts"/>
+<entry id="7" module="true" symbol="globals/GlanceRez/Strings"/>
+<entry id="8388642" module="true" symbol="Position"/>
+<entry id="10" module="true" symbol="globals/Rez/Fonts"/>
 <entry id="8391457" method="true" symbol="getGlanceView"/>
-<entry id="8389125" method="true" symbol="onHide"/>
 <entry id="8388635" module="true" symbol="Application"/>
 </symbolTable>
 <localVars>
-<entry arg="true" endPc="268435522" name="dc" stackId="1" startPc="268435479"/>
-<entry arg="true" endPc="268435566" name="dc" stackId="1" startPc="268435544"/>
-<entry arg="true" endPc="268435811" name="dc" stackId="1" startPc="268435768"/>
-<entry arg="true" endPc="268435859" name="dc" stackId="1" startPc="268435833"/>
-<entry arg="true" endPc="268435974" name="dc" stackId="1" startPc="268435860"/>
-<entry endPc="268435974" name="rez_cmp_local_text_1741342721" stackId="2" startPc="268435872"/>
-<entry arg="true" endPc="268436138" name="dc" stackId="1" startPc="268435975"/>
-<entry endPc="268436138" name="rez_cmp_local_text_1095419253" stackId="2" startPc="268435987"/>
+<entry arg="true" endPc="268435654" name="dc" stackId="1" startPc="268435611"/>
+<entry arg="true" endPc="268435702" name="dc" stackId="1" startPc="268435676"/>
+<entry arg="true" endPc="268435841" name="dc" stackId="1" startPc="268435727"/>
+<entry endPc="268435841" name="rez_cmp_local_text_2123493412" stackId="2" startPc="268435739"/>
+<entry arg="true" endPc="268435928" name="dc" stackId="1" startPc="268435861"/>
+<entry arg="true" endPc="268436053" name="dc" stackId="1" startPc="268435950"/>
+<entry endPc="268436052" name="posInfo" stackId="2" startPc="268435954"/>
+<entry arg="true" endPc="268436064" name="speed" stackId="1" startPc="268436054"/>
+<entry arg="true" endPc="268436154" name="dc" stackId="1" startPc="268436115"/>
+<entry arg="true" endPc="268436331" name="dc" stackId="1" startPc="268436155"/>
+<entry endPc="268436331" name="rez_cmp_local_text_labelSpeed" stackId="2" startPc="268436167"/>
 </localVars>
 <annotations>
+<annotationEntry annotation="glance" class="SpeedApp" module="globals" symbol="getGlanceView"/>
+<annotationEntry annotation="glance" class="SpeedGlanceView" module="globals" symbol="onLayout"/>
+<annotationEntry annotation="glance" class="SpeedApp" module="globals" symbol="onStop"/>
 <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+<annotationEntry annotation="glance" class="SpeedApp" module="globals" symbol="getInitialView"/>
+<annotationEntry annotation="glance" class="SpeedGlanceView" module="globals" symbol="initialize"/>
+<annotationEntry annotation="glance" class="SpeedGlanceView" module="globals" symbol="onUpdate"/>
+<annotationEntry annotation="glance" class="Layouts" module="globals/GlanceRez" symbol="GlanceLayout"/>
+<annotationEntry annotation="glance" class="SpeedApp" module="globals" symbol="initialize"/>
+<annotationEntry annotation="glance" class="SpeedApp" module="globals" symbol="onStart"/>
 <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
 </annotations>
 <dataEntryOffsetMappings>
-<dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
-<dataEntry label="globals/SpeedView" offset="166" parentId="globals" symbolId="SpeedView" type="class"/>
-<dataEntry label="globals/Rez" offset="245" parentId="globals" symbolId="Rez" type="module"/>
-<dataEntry label="globals/SpeedApp" offset="324" parentId="globals" symbolId="SpeedApp" type="class"/>
-<dataEntry label="globals/SpeedGlanceView" offset="403" parentId="globals" symbolId="SpeedGlanceView" type="class"/>
-<dataEntry label="globals/Rez/Drawables" offset="482" parentId="Rez" symbolId="Drawables" type="module"/>
-<dataEntry label="globals/Rez/Layouts" offset="521" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry label="globals/Rez/Menus" offset="568" parentId="Rez" symbolId="Menus" type="module"/>
-<dataEntry label="globals/Rez/Fonts" offset="599" parentId="Rez" symbolId="Fonts" type="module"/>
-<dataEntry label="globals/Rez/Strings" offset="630" parentId="Rez" symbolId="Strings" type="module"/>
-<dataEntry label="globals/Rez/JsonData" offset="669" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry label="globals" offset="135" parentId="" symbolId="globals" type="module"/>
+<dataEntry label="globals/SpeedApp" offset="222" parentId="globals" symbolId="SpeedApp" type="class"/>
+<dataEntry label="globals/SpeedGlanceView" offset="301" parentId="globals" symbolId="SpeedGlanceView" type="class"/>
+<dataEntry label="globals/GlanceRez" offset="364" parentId="globals" symbolId="GlanceRez" type="module"/>
+<dataEntry label="globals/GlanceRez/Drawables" offset="435" parentId="GlanceRez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/GlanceRez/Layouts" offset="466" parentId="GlanceRez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/GlanceRez/Fonts" offset="505" parentId="GlanceRez" symbolId="Fonts" type="module"/>
+<dataEntry label="globals/GlanceRez/Strings" offset="536" parentId="GlanceRez" symbolId="Strings" type="module"/>
+<dataEntry label="globals/GlanceRez/JsonData" offset="567" parentId="GlanceRez" symbolId="JsonData" type="module"/>
+<dataEntry label="globals/SpeedView" offset="897" parentId="globals" symbolId="SpeedView" type="class"/>
+<dataEntry label="globals/Rez" offset="992" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/Rez/Drawables" offset="1071" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="1110" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/Menus" offset="1157" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry label="globals/Rez/Fonts" offset="1188" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="1219" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry label="globals/Rez/JsonData" offset="1258" parentId="Rez" symbolId="JsonData" type="module"/>
 </dataEntryOffsetMappings>
 <functions>
-<functionEntry accessMode="public" endPc="268435478" name="&lt;init&gt;" parent="SpeedView" startPc="268435460">
+<functionEntry accessMode="public" endPc="268435478" name="&lt;init&gt;" parent="SpeedApp" startPc="268435460">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435481" name="onStart" parent="SpeedApp" startPc="268435479">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435524" name="getInitialView" parent="SpeedApp" startPc="268435482">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435545" name="initialize" parent="SpeedApp" startPc="268435525">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435588" name="getGlanceView" parent="SpeedApp" startPc="268435546">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435591" name="onStop" parent="SpeedApp" startPc="268435589">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435610" name="&lt;init&gt;" parent="SpeedGlanceView" startPc="268435592">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435654" name="onLayout" parent="SpeedGlanceView" startPc="268435611">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435675" name="initialize" parent="SpeedGlanceView" startPc="268435655">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435702" name="onUpdate" parent="SpeedGlanceView" startPc="268435676">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435726" name="&lt;init&gt;" parent="GlanceRez" startPc="268435703">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Layouts">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Fonts">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="JsonData">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435841" name="GlanceLayout" parent="Layouts" startPc="268435727">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435860" name="&lt;init&gt;" parent="SpeedView" startPc="268435842">
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="onShow" parent="SpeedView">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435522" name="onLayout" parent="SpeedView" startPc="268435479">
+<functionEntry accessMode="public" endPc="268435928" name="onLayout" parent="SpeedView" startPc="268435861">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435543" name="initialize" parent="SpeedView" startPc="268435523">
+<functionEntry accessMode="public" endPc="268435949" name="initialize" parent="SpeedView" startPc="268435929">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="onHide" parent="SpeedView">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268435566" name="onUpdate" parent="SpeedView" startPc="268435544">
+<functionEntry accessMode="public" endPc="268436053" name="onUpdate" parent="SpeedView" startPc="268435950">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435592" name="getApp" startPc="268435567">
+<functionEntry accessMode="public" endPc="268436064" name="metersPerSecondToMilesPerHour" parent="SpeedView" startPc="268436054">
+<param id="speed"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435616" name="&lt;init&gt;" parent="Rez" startPc="268435593">
+<functionEntry accessMode="public" endPc="268436090" name="getApp" startPc="268436065">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435635" name="&lt;init&gt;" parent="SpeedApp" startPc="268435617">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268435638" name="onStart" parent="SpeedApp" startPc="268435636">
-<param id="state"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268435681" name="getInitialView" parent="SpeedApp" startPc="268435639">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268435702" name="initialize" parent="SpeedApp" startPc="268435682">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268435745" name="getGlanceView" parent="SpeedApp" startPc="268435703">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268435748" name="onStop" parent="SpeedApp" startPc="268435746">
-<param id="state"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268435767" name="&lt;init&gt;" parent="SpeedGlanceView" startPc="268435749">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onShow" parent="SpeedGlanceView">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268435811" name="onLayout" parent="SpeedGlanceView" startPc="268435768">
-<param id="dc"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268435832" name="initialize" parent="SpeedGlanceView" startPc="268435812">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onHide" parent="SpeedGlanceView">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268435859" name="onUpdate" parent="SpeedGlanceView" startPc="268435833">
-<param id="dc"/>
+<functionEntry accessMode="public" endPc="268436114" name="&lt;init&gt;" parent="Rez" startPc="268436091">
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
@@ -194,11 +250,11 @@
 <functionEntry accessMode="public" name="&lt;init&gt;" parent="JsonData">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435974" name="GlanceLayout" parent="Layouts" startPc="268435860">
+<functionEntry accessMode="public" endPc="268436154" name="GlanceLayout" parent="Layouts" startPc="268436115">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268436138" name="MainLayout" parent="Layouts" startPc="268435975">
+<functionEntry accessMode="public" endPc="268436331" name="MainLayout" parent="Layouts" startPc="268436155">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
