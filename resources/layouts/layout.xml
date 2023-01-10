@@ -1,3 +1,4 @@
 <layout id="MainLayout">
-    <label id="labelSpeed" text="Testing words" x="center" y="center" justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_MEDIUM" color="Gfx.COLOR_WHITE" />
+    <label id="labelSpeed" text="Testing words" x="center" y="center" justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_NUMBER_THAI_HOT" color="Gfx.COLOR_WHITE" />
+    <label text="mph" x="center" y="75%" justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_MEDIUM" color="Gfx.COLOR_WHITE"/>
 </layout>

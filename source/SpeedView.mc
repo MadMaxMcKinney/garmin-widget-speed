@@ -2,6 +2,8 @@ import Toybox.Graphics;
 import Toybox.WatchUi;
 import Toybox.Position;
 import Toybox.System;
+import Toybox.Timer;
+import Toybox.Lang;
 
 class SpeedView extends WatchUi.View {
 
@@ -17,13 +19,10 @@ class SpeedView extends WatchUi.View {
         setLayout(Rez.Layouts.MainLayout(dc));
 
         spdLabel = self.findDrawableById("labelSpeed") as WatchUi.Text;
-    }
 
-    // Called when this View is brought to the foreground. Restore
-    // the state of this View and prepare it to be shown. This includes
-    // loading resources into memory.
-    function onShow() as Void {
-        
+        // Start a recurring timer to check for speed changes every 1s
+        var procressTimer = new Timer.Timer();
+        procressTimer.start(method(:checkSpeed), 1000, true);
     }
 
     // Update the view
@@ -31,14 +30,20 @@ class SpeedView extends WatchUi.View {
         // Call the parent onUpdate function to redraw the layout
         View.onUpdate(dc);
 
-        var posInfo = Position.getInfo();
-        currentSpeed = metersPerSecondToMilesPerHour(posInfo.speed);
-
         spdLabel.setText(currentSpeed.toString());
     }
 
-    function metersPerSecondToMilesPerHour(speed) {
-        return speed * 2.237;
+    function checkSpeed() as Void {
+        var posInfo = Position.getInfo();
+        currentSpeed = metersPerSecondToMilesPerHour(posInfo.speed);
+
+        WatchUi.requestUpdate();
+    }
+
+    // Arg: metersPerSecond as Any
+    // Desc: Returns a miles per hour (Number) from a metersPerSecond value
+    function metersPerSecondToMilesPerHour(metersPerSecond) as Number {
+        return (metersPerSecond * 2.237).toNumber();
     }
 
 }
